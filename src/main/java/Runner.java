@@ -6,10 +6,13 @@ public class Runner {
         System.out.println("techpro1");
         System.out.println("techpro2");
         System.out.println("techpro3");
-        111111
+       // 111111
 
 
-                //degishiklik
+
+                //degishikli
+            //remote degishiklik
+
 
     }
 }
